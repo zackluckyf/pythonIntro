@@ -1,0 +1,7 @@
+print "The capybara is the world's largest rodent"
+print "The capybara likes to live in groups "
+print "The capybara is a goof ball"
+
+print "The capybara lives in \nSouth America"
+
+print "The capybara likes \" quotes"
